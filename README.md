@@ -1,4 +1,4 @@
-# Continuous-Time-Social-Dilemma-Analysis
+# Continuous-Time-Social-Dilemmas-Analysis
 
 In this project, I work with Continuous Time Social Dilemmas, as described [in](https://github.com/thanasiskehagias/MyPapers/blob/main/books/2022Kehagias.pdf). In this analysis, we use parametric non linear dynamical system models (action update models) to describe the behaviour of social dilemmas. The equations are polynomials and the state values express the degree of cooperation between players.
 
